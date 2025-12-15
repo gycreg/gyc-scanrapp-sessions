@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "event": "GYC Conference 2025",
+  "sessions": [
+    { "name": "Thursday - Stephen Waterbrook Testimony - 12-1 PM" },
+    { "name": "Thursday - Jermaine Gayle Plenary - 7:00-8:30 PM" },
+    { "name": "Friday - Jermaine Gayle Plenary - 7:00-8:30 PM" },
+    { "name": "Sabbath - Jermaine Gayle Plenary - 7:00-8:30 PM" },
+    { "name": "Sunday - David Wright - 9:30-10:30 AM" }
+  ]
+}
